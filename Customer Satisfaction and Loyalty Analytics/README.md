@@ -3,15 +3,15 @@ To create an analytical report that identifies the key factors influencing custo
 
 ## **Data Description**
 The dataset has the following features:
-  •	**Customer_ID** = Unique customer identifier
-  •	**Group** = Customer classification: A, B, or C • Group A: High-frequency shoppers • Group B: Moderate frequency • Group C: New or low-frequency
-  •	**Satisfaction_Score** = Customer’s rating of their experience (1 = very poor, 10 = excellent)
-  •	**Age and Gender** = Demographic attributes
-  •	**Location** = City and State (e.g., Austin.TX), with Latitude and Longitude for geographic mapping
-  •	**Purchase_History** = Indicates if the customer has made purchases (Yes/No)
-  •	**Support_Contacted** = Whether the customer interacted with support
-  •	**Loyalty_Level** = OmniRetail’s internal rating: Low / Medium / High loyalty
-  •	**Satisfaction_Factor** = The main reason influencing the satisfaction score (e.g., Price, Product Variety, Packaging)
+  **Customer_ID** = Unique customer identifier
+  **Group** = Customer classification: A, B, or C • Group A: High-frequency shoppers • Group B: Moderate frequency • Group C: New or low-frequency
+  **Satisfaction_Score** = Customer’s rating of their experience (1 = very poor, 10 = excellent)
+  **Age and Gender** = Demographic attributes
+  **Location** = City and State (e.g., Austin.TX), with Latitude and Longitude for geographic mapping
+  **Purchase_History** = Indicates if the customer has made purchases (Yes/No)
+  **Support_Contacted** = Whether the customer interacted with support
+  **Loyalty_Level** = OmniRetail’s internal rating: Low / Medium / High loyalty
+  **Satisfaction_Factor** = The main reason influencing the satisfaction score (e.g., Price, Product Variety, Packaging)
 
 ## **Summary**
 - Total Customers = 120
