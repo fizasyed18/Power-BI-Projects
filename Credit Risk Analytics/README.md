@@ -1,5 +1,5 @@
 # **Credit Risk Analytics - Onyx Data Challenge**
-This repository includes my entry for the September 2025 Credit Risk Dataset Onyx Data Challenge x ZoomCharts Mini Challenge.
+This repository includes my entry for the **September 2025 Credit Risk Dataset Onyx Data Challenge x ZoomCharts Mini Challenge**.
 
 ## **Objective**
 To build a dashboard that helps Nova Bank answers key business question:
