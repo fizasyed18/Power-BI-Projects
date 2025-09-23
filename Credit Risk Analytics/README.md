@@ -14,5 +14,8 @@ To build a dashboard that helps Nova Bank answers key business question:
 3. Loan Risk Factors – See Default Rate (%), DTI/LTI Impact, and Geo Maps for defaults 
 
 ## **Dashboard Images**
-![Loan Portfolio Overview](https://github.com/username/repo-name/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890)
+
+(![image](https://github.com/username/repo-name/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890)
+)
+
 
