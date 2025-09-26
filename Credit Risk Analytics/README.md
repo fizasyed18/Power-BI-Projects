@@ -1,3 +1,6 @@
+## **Dashboard Link**
+https://lnkd.in/daMp5eR4
+ 
 # **Credit Risk Analytics - Onyx Data Challenge**
 This repository includes my entry for the **September 2025 Credit Risk Dataset Onyx Data Challenge x ZoomCharts Mini Challenge**.
 
@@ -12,5 +15,3 @@ To build a dashboard that helps Nova Bank answers key business question:
 1. Loan Portfolio Overview – Tracks Total borrowers, Loan Distribution, Avg. Loan & Interest
 2. Customer Profile – Age, Income, Credit History, Safe vs Risky Borrowers 
 3. Loan Risk Factors – See Default Rate (%), DTI/LTI Impact, and Geo Maps for defaults 
-
-
