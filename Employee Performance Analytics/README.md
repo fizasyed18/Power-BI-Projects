@@ -51,13 +51,8 @@ Total Records: 497,000+
 - Act on exit feedback i.e., former employees have lower satisfaction score.
 - Promotion rate of 4% is very low, which may demotivate employees – create more career opportunities.
 - Monitor bonuses and benefits – ensure cost reduction does not impact employee engagement.
+- Introduce monthly recognition programs like "Employee of the Month", celebrate milestones (tenures, promotions etc.)
 
 ## **Visuals**
-
-# 📊 Employee Attrition Analysis
-## 📝 Introduction
-## 🔍 Data Overview
-## 📈 Insights
-## 💡 Recommendations
-## ✅ Conclusion
-- Introduce monthly recognition programs like "Employee of the Month", celebrate milestones (tenures, promotions etc.)
+## **Page 1**
+<img width="659" height="370" alt="Image" src="https://github.com/user-attachments/assets/7d166165-fbe7-4d37-abd9-fba991f97a79" />
