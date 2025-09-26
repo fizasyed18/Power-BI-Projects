@@ -5,6 +5,8 @@ https://lnkd.in/dw9j6wme
 ## **Objective**
 To identify top-performing departments, evaluate compensation effectiveness, assess manager performance, discover patterns in employee satisfaction and retention, and provide recommendations to improve workforce productivity and organizational culture.
 
+### **Dashboard Pages**
+
 ### **Page 1: Workforce Overview**
 ### **Key Metrics**
 - Total Employees: 7500 | Active Employees: 6009 | Former Employees: 1491
