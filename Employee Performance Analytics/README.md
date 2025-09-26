@@ -1,12 +1,16 @@
 # 🔗 **Dashboard Link**
 https://lnkd.in/dw9j6wme
 
+--- 
+
 # 📊 **Employee Performance Analytics - FP20 Analytics Challenge 30**
 ## **Objective**
 To identify top-performing departments, evaluate compensation effectiveness, assess manager performance, discover patterns in employee satisfaction and retention, and provide recommendations to improve workforce productivity and organizational culture.
 
 # 🔍 **Dataset Overview**
 Total Records: 497,000+ 
+
+---
 
 ### **Dashboard Pages**
 
@@ -21,6 +25,8 @@ Total Records: 497,000+
 - There is a significant spike in hiring in 2019, peaking in 2021, suggests strong expansion in recent years.
 - Workforce is spread across multiple US states, concentrated in Midwest and East Coast.
 
+--- 
+
 ### 📝 **Page 2: Attrition Overview**
 ### **Key Metrics**
 - Attrition Rate: ~20%
@@ -31,6 +37,8 @@ Total Records: 497,000+
 - Highest attrition rate in departments like HR, Logistics/Warehouse & Marketing, while largest department like Store Operations & Fresh Produce shows moderate attrition.
 - There is a sharp increase in attrition from 2018, peaking in 2021.
 - Former employee's satisfaction is lower than the active employees across all months.
+
+---
 
 ### 📝 **Page 3: Performance & Productivity**
 ### **Key Metrics**
@@ -45,6 +53,8 @@ Total Records: 497,000+
 - Satisfaction over years remain between 7.0-7.5 with small fluctuations, while Performance remains flat across all months but it shows spikes in December 2022, 2023 and 2024.
 - Promotion rate is only 4%, which could lead to dissatisfaction.
 
+---
+
 ## 💡 **Recommendations**
 - Focus on HR, Logistics/Warehouse and Marketing departments with high attrition.
 - Increase training Hours to boost engagement and performance. Introduce structured training programs (technical, soft, leadership etc.)
@@ -52,6 +62,8 @@ Total Records: 497,000+
 - Promotion rate of 4% is very low, which may demotivate employees – create more career opportunities.
 - Monitor bonuses and benefits – ensure cost reduction does not impact employee engagement.
 - Introduce monthly recognition programs like "Employee of the Month", celebrate milestones (tenures, promotions etc.)
+
+---
 
 ## **Visuals**
 ## **Page 1**
