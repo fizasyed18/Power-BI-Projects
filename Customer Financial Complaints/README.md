@@ -1,6 +1,9 @@
 # **🔗 Dashboard Link**
 https://tinyurl.com/3k2pvye8
 
+---  
+
+
 # **📊 Customer Financial Complaints - October 2025 DataDNA Challenge**
 
 ## **Objective**
@@ -10,6 +13,10 @@ This interactive dashboard analyzes over hundreds of customer financial complain
 
 ## **Dataset Overview**
 Total Records = 62517
+
+--- 
+
+
 ## **🔍 What this dashboard includes:**
 - Complaint overview
 - Company level insights 
