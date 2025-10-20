@@ -71,3 +71,7 @@ Total Records: 497,000+
 - Promotion rate of 4% is very low, which may demotivate employees – create more career opportunities.
 - Monitor bonuses and benefits – ensure cost reduction does not impact employee engagement.
 - Introduce monthly recognition programs like "Employee of the Month", celebrate milestones (tenures, promotions etc.)
+
+--- 
+
+📬 [LinkedIn](https://www.linkedin.com/in/fizasyed18/)
