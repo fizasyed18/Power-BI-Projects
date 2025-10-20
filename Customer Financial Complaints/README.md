@@ -53,6 +53,9 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 - Average response time is between **11-18 days**.
 - Companies with higher reputation score tends to respond more quickly.
 - Small companies dominate the complaints **~70.1%**. As company size increases, the complaint rate(%) decreases.
+
+<img width="647" height="364" alt="Image" src="https://github.com/user-attachments/assets/23eedf69-6029-4b06-833c-b5b3d99f3188" />
+
 --- 
 
 ## 📝**Page 3: Product & Issue Analysis**
