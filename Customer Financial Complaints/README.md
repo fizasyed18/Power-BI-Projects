@@ -65,6 +65,8 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 - Frequent issues include "Managing an account" followed by "Incorrect information on your report" and "Problem with a purchase shown on your statement".
 - **"Closed with explanation"** is the most common response which means a large number of complaints arise from misunderstandings, while **"Closed with monetary relief"**, represent higher issues, irrespective of the smaller count of complaints.
 
+<img width="646" height="364" alt="Image" src="https://github.com/user-attachments/assets/58da87be-5c6a-47c5-b108-00dec06c8903" />
+
 --- 
 
 ## 📝**Page 4: Geographic Analysis**
@@ -74,6 +76,8 @@ Top state share: California (CA) 21.9%
 ### **Insights**
 California, Florida, Texas and New York dominate the complaint landscape of **~47%** of the total complaints, while North Dakota and Wyoming had the least. 
 South and West regions lead in overall complaint volume i.e., **69%**.
+
+<img width="648" height="363" alt="Image" src="https://github.com/user-attachments/assets/72930482-794c-4f86-a86a-1a3e7f4ed40f" />
 
 --- 
 
