@@ -1,10 +1,15 @@
-# **Customer Financial Complaints - October 2025 DataDNA Challenge**
+# **🔗 Dashboard Link**
+https://tinyurl.com/3k2pvye8
+
+# **📊 Customer Financial Complaints - October 2025 DataDNA Challenge**
 
 ## **Objective**
 To create an analytical report that identifies patterns in complaints, evaluates company responses, and highlights areas of concern for regulators and consumers.
 
 This interactive dashboard analyzes over hundreds of customer financial complaints across US states, companies & products from May 2017- August 2023.
 
+## **Dataset Overview**
+Total Records = 62517
 ## **🔍 What this dashboard includes:**
 - Complaint overview
 - Company level insights 
