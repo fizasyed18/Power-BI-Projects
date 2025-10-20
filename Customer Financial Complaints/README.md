@@ -31,7 +31,7 @@ Total Records = 62517
 
 # **Dashboard Pages**
 
-## **Page 1: Complaint Overview**
+## 📝**Page 1: Complaint Overview**
 ### **Key Metrics**:
 Total Complaints = 62516 | Timely Response: 93.8% complaints | Closed Complaints: 61022(97.6%) | Active Complaints: 1494(2.4%) | 
 
@@ -43,7 +43,7 @@ Total Complaints = 62516 | Timely Response: 93.8% complaints | Closed Complaints
 
 --- 
 
-## **Page 2: Company Performance**
+## 📝**Page 2: Company Performance**
 ### **Key Metrics**:
 Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Time: 15 days | Avg. complaint/company: 58 |
 
@@ -53,7 +53,7 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 - Small companies dominate the complaints **~70.1%**. As company size increases, the complaint rate(%) decreases.
 --- 
 
-## **Page 3: Product & Issue Analysis**
+## 📝**Page 3: Product & Issue Analysis**
 
 ### **Insights**
 - **Checking/saving account** and **Credit card/prepaid card** product drives the most complaints nearly 66%. While student loan had the least.
@@ -62,7 +62,7 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 
 --- 
 
-## **Page 4: Geographic Analysis**
+## 📝**Page 4: Geographic Analysis**
 ### **Key Metrics**:
 Top state share: California (CA) 21.9%
 
@@ -70,3 +70,6 @@ Top state share: California (CA) 21.9%
 California, Florida, Texas and New York dominate the complaint landscape of **~47%** of the total complaints, while North Dakota and Wyoming had the least. 
 South and West regions lead in overall complaint volume i.e., **69%**.
 
+--- 
+
+📬 [LinkedIn](https://www.linkedin.com/in/fizasyed18/)
