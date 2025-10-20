@@ -41,6 +41,8 @@ Total Complaints = 62516 | Timely Response: 93.8% complaints | Closed Complaints
 - Majority of the complaints come via Web & Referral and gets faster response, followed by phone and postal mail.
 - Apprximately **94%** of the complaints recieve timely response. 
 
+<img width="647" height="364" alt="Image" src="https://github.com/user-attachments/assets/fe5cd473-6c6b-417c-b9c4-779ab7a653c0" />
+
 --- 
 
 ## 📝**Page 2: Company Performance**
