@@ -74,8 +74,8 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 Top state share: California (CA) 21.9%
 
 ### **Insights**
-California, Florida, Texas and New York dominate the complaint landscape of **~47%** of the total complaints, while North Dakota and Wyoming had the least. 
-South and West regions lead in overall complaint volume i.e., **69%**.
+- California, Florida, Texas and New York dominate the complaint landscape of **~47%** of the total complaints, while North Dakota and Wyoming had the least. 
+- South and West regions lead in overall complaint volume i.e., **69%**.
 
 <img width="648" height="363" alt="Image" src="https://github.com/user-attachments/assets/72930482-794c-4f86-a86a-1a3e7f4ed40f" />
 
