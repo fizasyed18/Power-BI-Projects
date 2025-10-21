@@ -1,5 +1,5 @@
 # **🔗 Dashboard Link**
-https://tinyurl.com/3k2pvye8
+https://lnkd.in/deV-nSSd
 
 ---  
 
