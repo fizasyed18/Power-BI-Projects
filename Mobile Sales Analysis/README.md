@@ -34,11 +34,17 @@ To build a report that tells the story of mobile sales across different regions,
 **Page 1**
 <img width="673" height="375" alt="Image" src="https://github.com/user-attachments/assets/7f799476-b204-4bd2-a76a-e3104991d0c7" />
 
+--- 
+
 **Page 2**
 <img width="632" height="353" alt="Image" src="https://github.com/user-attachments/assets/11a7e3fc-433b-4eff-8061-2a7ed8a53e11" />
 
+--- 
+
 **Page 3**
 <img width="614" height="338" alt="Image" src="https://github.com/user-attachments/assets/187e0d2c-e477-4e30-8ca1-6faaf01c188c" />
+
+--- 
 
 **Page 4**
 <img width="608" height="337" alt="Image" src="https://github.com/user-attachments/assets/ba0eee9e-b4cd-4662-a956-f383d5d88937" />
