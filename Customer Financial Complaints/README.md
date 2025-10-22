@@ -41,7 +41,7 @@ Total Complaints = 62516 | Timely Response: 93.8% complaints | Closed Complaints
 - Majority of the complaints come via Web & Referral and gets faster response, followed by phone and postal mail.
 - Apprximately **94%** of the complaints recieve timely response. 
 
-<img width="647" height="364" alt="Image" src="https://github.com/user-attachments/assets/fe5cd473-6c6b-417c-b9c4-779ab7a653c0" />
+<img width="575" height="323" alt="Image" src="https://github.com/user-attachments/assets/8ceab171-cf26-451f-aa0a-ee214331ddc7" />
 
 --- 
 
@@ -54,7 +54,7 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 - Companies with higher reputation score tends to respond more quickly.
 - Small companies dominate the complaints **~70.1%**. As company size increases, the complaint rate(%) decreases.
 
-<img width="647" height="364" alt="Image" src="https://github.com/user-attachments/assets/23eedf69-6029-4b06-833c-b5b3d99f3188" />
+<img width="575" height="323" alt="Image" src="https://github.com/user-attachments/assets/f6254693-f61b-4ed6-a213-e7c533424e04" />
 
 --- 
 
@@ -65,7 +65,7 @@ Total Companies Reported: 1081 | Avg. Reputation Score: 75.1 | Avg. Response Tim
 - Frequent issues include "Managing an account" followed by "Incorrect information on your report" and "Problem with a purchase shown on your statement".
 - **"Closed with explanation"** is the most common response which means a large number of complaints arise from misunderstandings, while **"Closed with monetary relief"**, represent higher issues, irrespective of the smaller count of complaints.
 
-<img width="646" height="364" alt="Image" src="https://github.com/user-attachments/assets/58da87be-5c6a-47c5-b108-00dec06c8903" />
+<img width="575" height="323" alt="Image" src="https://github.com/user-attachments/assets/ab50727e-b92b-4c24-a445-9a52a56b9011" />
 
 --- 
 
@@ -77,7 +77,7 @@ Top state share: California (CA) 21.9%
 - California, Florida, Texas and New York dominate the complaint landscape of **~47%** of the total complaints, while North Dakota and Wyoming had the least. 
 - South and West regions lead in overall complaint volume i.e., **69%**.
 
-<img width="648" height="363" alt="Image" src="https://github.com/user-attachments/assets/72930482-794c-4f86-a86a-1a3e7f4ed40f" />
+<img width="575" height="323" alt="Image" src="https://github.com/user-attachments/assets/2db800c5-92f3-4f6e-9e1c-79fca9a54219" />
 
 --- 
 
