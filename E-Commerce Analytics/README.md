@@ -76,7 +76,7 @@ This dataset has 3 primary table:
 **2. Top Products among Loyal Customers**
 - It shows which products loyal customers prefer.
 
-<img width="681" height="379" alt="Image" src="https://github.com/user-attachments/assets/65c381f9-5f18-40a7-9570-cae6c75a840d" />
+<img width="678" height="378" alt="Image" src="https://github.com/user-attachments/assets/853f0ee8-0f77-4602-9705-dac230f83190" />
 
 --- 
 
