@@ -3,7 +3,7 @@ https://lnkd.in/deV-nSSd
 
 ---  
 
-# **📊 Customer Financial Complaints - Onyx October 2025 DataDNA Challenge**
+# **📊 Customer Financial Complaints - Onyx Data October 2025 Challenge**
 
 ## **Objective**
 To create an analytical report that identifies patterns in complaints, evaluates company responses, and highlights areas of concern for regulators and consumers.
