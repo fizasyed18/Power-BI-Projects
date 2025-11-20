@@ -1,5 +1,9 @@
 # **🔗Dashboard Link**
 
+https://tinyurl.com/4uu8eb3v
+
+---
+
 # **📊E-Commerce Analytics - November 2025 DataDNA Challenge**
 
 ## **Objective**
