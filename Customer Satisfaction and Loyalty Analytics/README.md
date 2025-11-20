@@ -1,3 +1,5 @@
+# **📊 Customer Satisfaction And Loyalty - Onyx Data July 2025 Challenge**
+
 # **Objective**
 To create an analytical report that identifies the key factors influencing customer satisfaction and loyalty across different regions, customer demographics, and support experiences.
 
@@ -30,3 +32,7 @@ To create an analytical report that identifies the key factors influencing custo
 ### **Page 2**
 
 <img width="602" height="347" alt="Image" src="https://github.com/user-attachments/assets/c0d19d61-671f-4919-9d86-f3440279e7bc" />
+
+---
+
+📬 [LinkedIn](https://www.linkedin.com/in/fizasyed18/)
