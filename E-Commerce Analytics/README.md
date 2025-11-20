@@ -106,6 +106,4 @@ This dataset has 3 primary table:
 
 ---
 
-# **LinkedIn**
-
 📬 [LinkedIn](https://www.linkedin.com/in/fizasyed18/)
