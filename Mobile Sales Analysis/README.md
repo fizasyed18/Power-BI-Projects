@@ -21,8 +21,8 @@ To build a report that tells the story of mobile sales across different regions,
 
 ---
 
-**📝Page 2: Demographic Analysis**
-## **Insights**
+## **📝Page 2: Demographic Analysis**
+### **Insights**
 - **Revenue and Units Sold by Gender** = Female customers contribute the most (~49%) and lead in quantity sold.
 - **Top Models by Gender** = Female: Z Fold 6 and Galaxy S25 Ultra.
                              Male: OnePlus 12 Pro.
@@ -32,8 +32,8 @@ To build a report that tells the story of mobile sales across different regions,
 
 ---
 
-**📝Page 3: Product Analysis**
-## **Insights**
+## **📝Page 3: Product Analysis**
+### **Insights**
 - **Top Brands** = Apple and Samsung: ~49% of total revenue
 - **Top Models** = Samsung Z Fold 6 and Galaxy S25 Ultra (Revenue); OnePlus Nord 4 and OnePlus 12 Pro (Units Sold).
 
@@ -41,8 +41,8 @@ To build a report that tells the story of mobile sales across different regions,
 
 ---
 
-**📝Page 4: Regional Sales**
-## **Insights**
+## **📝Page 4: Regional Sales**
+### **Insights**
 - **By Country (Revenue and Units Sold)** = India and Turkey lead in both.
 - **Top cities by Revenue** = Dominated by Turkish Cities: Bursa, Chennai, Antalya, Ankara, and Istanbul
 
