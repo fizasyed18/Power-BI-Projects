@@ -100,4 +100,10 @@ This dataset has 3 primary table:
 
 --- 
 
+# **Data Model**
+
+<img width="364" height="252" alt="Image" src="https://github.com/user-attachments/assets/401a6e73-2c30-426e-9fb6-e9a3b21c85b3" />
+
+---
+
 📬 [LinkedIn](https://www.linkedin.com/in/fizasyed18/)
