@@ -4,7 +4,7 @@ https://tinyurl.com/4uu8eb3v
 
 ---
 
-# **📊E-Commerce Analytics - November 2025 DataDNA Challenge**
+# **📊E-Commerce Analytics - Onyx Data November 2025 Challenge**
 
 ## **Objective**
 To identify loyal customers (repeat buyers) and to determine which channels and promotional campaigns drive their repeat purchases.
